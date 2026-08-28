@@ -1,0 +1,5 @@
+numpy==2.4.4
+matplotlib==3.10.8
+mesa==3.5.1
+networkx
+jupyter==1.1.1
